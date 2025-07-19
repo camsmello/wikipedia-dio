@@ -12,5 +12,4 @@
 <p>Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.</p>
 <p>Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.</p>
 <br>
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
 <img width="1880" height="879" alt="Captura de tela 2025-07-19 165624" src="https://github.com/user-attachments/assets/3c4044cb-5819-48cb-97ec-7137ba4d3d32" />
